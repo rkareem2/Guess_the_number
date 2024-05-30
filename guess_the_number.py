@@ -6,3 +6,7 @@ def user_input():
 user_input()
 
 print("This is MO")
+def guess_the_num():
+    print("say")
+
+guess_the_num()
